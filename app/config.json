@@ -1,0 +1,10 @@
+{
+    "redis": {
+        "host": "[REDACTED]",
+        "auth": "[REDACTED]"
+    },
+    "challenge": {
+        "salt": "[REDACTED]",
+        "flag": "[REDACTED]"
+    }
+}
